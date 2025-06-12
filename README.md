@@ -25,7 +25,7 @@ Available on the App Store: [https://apps.apple.com/app/id6746514912](https://ap
 
 You can also download the app directly:
 
-- [Download APK](./downloads/app-release.apk)
+- [Download APK](https://github.com/dayan9265/lrapp-privacy-policy/releases/download/untagged-2755e730a03e89a0fe89/app-release.apk)
 
 > Note: You may need to allow "Install unknown apps" in your device settings.
 
